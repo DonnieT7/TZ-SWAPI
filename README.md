@@ -10,4 +10,8 @@ npm install -D tailwindcss postcss autoprefixer
 # Запуск проекта
 npm run dev
 
+# Логин и пароль
+login: admin
+password: password
+
 
